@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=0000FF&size=30&lines=Myself+Smit+Thakkar;)](https://git.io/typing-svg)
 
 ### About Me 🚀
-- Student at Dalhousie University, Halifax, Canada.
-- I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
+- Software Development Engineer at Amazon Web Services.
+- Alma Mater: Dalhousie University
 - Full Stack Developer
 - Gamer!
 
