@@ -27,8 +27,6 @@
 
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=whitetiger47&theme=gruvbox&hide_border=true&area=true)
-
 <br> <strong> VISITORS COUNT: </strong> <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{whitetiger47}/count.svg)
