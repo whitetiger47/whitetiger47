@@ -2,8 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/whitetiger47?style=social)](https://github.com/whitetiger47?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=0000FF&size=30&lines=Myself+Smit+Thakkar;)](https://git.io/typing-svg)
-
 ### About Me 🚀
 - Software Development Engineer at Amazon Web Services.
 - Alma Mater: Dalhousie University
