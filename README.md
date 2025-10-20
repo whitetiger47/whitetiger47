@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/whitetiger47?style=social)](https://github.com/whitetiger47?tab=followers)
 
 ### About Me 🚀
-- Software Development Engineer at Amazon Web Services.
+- Software Development Engineer
 - Alma Mater: Dalhousie University
 - Full Stack Developer
 - Gamer!
