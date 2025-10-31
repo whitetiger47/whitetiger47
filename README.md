@@ -6,7 +6,6 @@
 - Software Development Engineer
 - Alma Mater: Dalhousie University
 - Full Stack Developer
-- Gamer!
 
 ### Connect with me on :left_speech_bubble:
 <br>	
