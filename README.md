@@ -80,6 +80,8 @@ I occasionally write short notes and documentation around things I’m learning 
 
 </details>
 
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whitetiger47&theme=github)
+
 <p align="center">
 <b>Thanks for stopping by.</b><br>
 If something here helped you, feel free to star a repo ⭐
