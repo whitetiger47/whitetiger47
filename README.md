@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python-437CAC?logo=cpp&logoColor=white&style=flat">&nbsp;
 
 **Frameworks & Libraries**  
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
@@ -76,15 +77,6 @@ I occasionally write short notes and documentation around things I’m learning 
 ✨ Full-stack web applications  
 ✨ Internal tooling & automation  
 ✨ Open-source contributions  
-
-</details>
-
-<details>
-  <summary><b>📈 Coding Stats</b></summary><br>
-
-<!--START_SECTION:waka-->
-_WakaTime stats auto-update here_
-<!--END_SECTION:waka-->
 
 </details>
 
