@@ -1,29 +1,66 @@
-## Hello !!   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height = "29px">
+# Hi, I’m WhiteTiger47 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/whitetiger47?style=social)](https://github.com/whitetiger47?tab=followers)
+Software Engineer with a focus on building clean, maintainable, and scalable systems.  
+I value pragmatic engineering, thoughtful architecture, and shipping reliable software.
 
-### About Me 🚀
-- Software Development Engineer
-- Alma Mater: Dalhousie University
-- Full Stack Developer
+---
 
-### Connect with me on :left_speech_bubble:
-<br>	
+## 🔍 What I Work On
+- Designing and building backend services and APIs
+- Writing production-grade code with a focus on readability and correctness
+- Improving developer experience through tooling and automation
+- Continuously refining systems for performance and reliability
+
+---
+
+## 📊 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whitetiger47&theme=github-compact)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="left">
-<a href="https://twitter.com/itsoksmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssmitthakkar" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=whitetiger47&show_icons=true&hide_title=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitetiger47&hide_border=true" height="150" />
 </p>
 
-### My Github Stats 🔥
-<p align="center"><img src="(https://github-readme-stats.vercel.app/api?username=whitetiger47&theme=tokyonight&show_icons=true)"  /></p>
-<hr>
+---
 
- <p align="center"> 
-<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=whitetiger47&theme=highcontrast"/></p><br>
+## 🛠️ Technical Skills
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitetiger47&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>
+**Languages**  
+- JavaScript / TypeScript  
+- Python  
 
-<br>
+**Backend & APIs**  
+- Node.js  
+- RESTful APIs  
+- Authentication & Authorization  
 
-<br> <strong> VISITORS COUNT: </strong> <br>
+**Frontend**  
+- React  
 
-![Visitor Count](https://profile-counter.glitch.me/{whitetiger47}/count.svg)
+**Databases**  
+- PostgreSQL  
+- MongoDB  
+
+**Infrastructure & Tooling**  
+- Docker  
+- GitHub Actions  
+- CI/CD pipelines  
+
+---
+
+## 📌 Principles
+- Prefer simplicity over unnecessary abstraction
+- Optimize for long-term maintainability
+- Automate repetitive work
+- Write code for humans first, machines second
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/whitetiger47  
+
