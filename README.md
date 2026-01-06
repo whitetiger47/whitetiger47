@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/whitetiger47">GitHub</a> -
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> - 
-  <a href="https://twitter.com/YOUR_TWITTER">Twitter</a> -
-  <a href="https://YOUR_WEBSITE">Website</a> -
-  <a href="mailto:YOUR_EMAIL">Contact</a>
+  <a href="https://www.linkedin.com/in/itssmitthakkar">LinkedIn</a> - 
+  <a href="https://twitter.com/itsoksmit">Twitter</a> -
+  <a href="https://www.smitt.dev">Website</a> -
+  <a href="mailto:smit@smitt.dev">Contact</a>
 </p>
 
 -----------------------------------------------------------
